@@ -50,7 +50,7 @@
         
           <a id="nav-rss-link" class="nav-icon" href="/atom.xml" title="RSS Feed"></a>
         
-        <a id="nav-search-btn" class="nav-icon" title="Suche"></a>
+        <a id="nav-search-btn" class="nav-icon" title="Search"></a>
       </nav>
       <div id="search-form-wrap">
         <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="http://yoursite.com"></form>
@@ -60,6 +60,51 @@
 </header>
       <div class="outer">
         <section id="main">
+  
+    <article id="post-lambdaauto" class="article article-type-post" itemscope itemprop="blogPost">
+  <div class="article-meta">
+    <a href="/2018/02/01/lambdaauto/" class="article-date">
+  <time datetime="2018-02-01T11:02:42.000Z" itemprop="datePublished">2018-02-01</time>
+</a>
+    
+  </div>
+  <div class="article-inner">
+    
+    
+      <header class="article-header">
+        
+  
+    <h1 itemprop="name">
+      <a class="article-title" href="/2018/02/01/lambdaauto/">lambdaauto</a>
+    </h1>
+  
+
+      </header>
+    
+    <div class="article-entry" itemprop="articleBody">
+      
+        <h1 id="Generic-Lambda-lambda-with-textbf-auto"><a href="#Generic-Lambda-lambda-with-textbf-auto" class="headerlink" title="Generic Lambda ( $\lambda$ with $\textbf{auto}$ )"></a>Generic Lambda ( $\lambda$ with $\textbf{auto}$ )</h1><p>This is a very interesting feature in C++. But it is easy to understand it: Applying template into $\lambda$ as more as possible. </p>
+<figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">auto</span> f = [](<span class="keyword">auto</span> x)&#123;<span class="keyword">return</span> x++;&#125; <span class="comment">// it is interesting</span></span><br></pre></td></tr></table></figure>
+<p>to apply concept into lambda, so we could replace auto with other concepts if possible, really interesting. Also static_assert with typeinfo if needed</p>
+<p>However, situation becomes complicated when things need to forward ref. We could notice than a right value refence who bind a right value self is a left value.<br>Concretely, Its type is rvalue reference, but it self is a left value. Thus if we need use a reference $a$ to bind it, $a$ would like to be an left reference.<br>Therefore, the right reference information is lost when we need to invoke some other function inside utilizing the universal reference. Thus, we use forward sematics.</p>
+<p>Thus, we would like to have an definition of a $\lambda$ funtion like this</p>
+<figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">auto</span> f = [](<span class="keyword">auto</span>&amp;&amp; x)&#123; <span class="keyword">return</span> func(<span class="built_in">std</span>::forward&lt;???&gt;(x)); &#125;;</span><br></pre></td></tr></table></figure>
+<p>There auto&amp;&amp; is universal reference. But what if ??? would like to be? Since we cannot like <strong>template<t\&\&></t\&\&></strong> utilize the universal reference deduction and reference collapse to perfect distinguish the dirrence between lval and rval.</p>
+<p>Thus, we utilize <strong>decltype(x)</strong> to get the type, thus, we would have the form<br><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">[](<span class="keyword">auto</span>&amp;&amp; x)&#123;<span class="keyword">return</span> func(<span class="built_in">std</span>::forward&lt;typedecl(x)&gt;(x))&#125;;</span><br></pre></td></tr></table></figure></p>
+<p>Things would be more fantastic with fold if you only aims to forward those parameters<br>```c++<br><a href="auto&amp;&amp;... xs"></a>{ return func(std::forward<decltype(xs)>(xs)…);}</decltype(xs)></p>
+
+      
+    </div>
+    <footer class="article-footer">
+      <a data-url="http://yoursite.com/2018/02/01/lambdaauto/" data-id="cjd4gj7iv0003fti5xw4gajo3" class="article-share-link">Share</a>
+      
+      
+    </footer>
+  </div>
+  
+</article>
+
+
   
     <article id="post-CppSuggestion" class="article article-type-post" itemscope itemprop="blogPost">
   <div class="article-meta">
@@ -96,7 +141,7 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://yoursite.com/2018/02/01/CppSuggestion/" data-id="cjd4dyw8c0000dti542drzuxr" class="article-share-link">Teilen</a>
+      <a data-url="http://yoursite.com/2018/02/01/CppSuggestion/" data-id="cjd4gj7ik0000fti59g017pdt" class="article-share-link">Share</a>
       
       
     </footer>
@@ -142,7 +187,7 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://yoursite.com/2018/02/01/declauto/" data-id="cjd4dyw8i0001dti5zwsh7tq0" class="article-share-link">Teilen</a>
+      <a data-url="http://yoursite.com/2018/02/01/declauto/" data-id="cjd4gj7ip0001fti5wurbkkxr" class="article-share-link">Share</a>
       
       
     </footer>
@@ -187,7 +232,7 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://yoursite.com/2018/01/27/hello-world/" data-id="cjd4dyw8k0002dti5l8wk21th" class="article-share-link">Teilen</a>
+      <a data-url="http://yoursite.com/2018/01/27/hello-world/" data-id="cjd4gj7iu0002fti5g1z3kla1" class="article-share-link">Share</a>
       
       
     </footer>
@@ -213,7 +258,7 @@
   
     
   <div class="widget-wrap">
-    <h3 class="widget-title">Archiv</h3>
+    <h3 class="widget-title">Archives</h3>
     <div class="widget">
       <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2018/02/">February 2018</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2018/01/">January 2018</a></li></ul>
     </div>
@@ -223,9 +268,13 @@
   
     
   <div class="widget-wrap">
-    <h3 class="widget-title">letzter Beitrag</h3>
+    <h3 class="widget-title">Recent Posts</h3>
     <div class="widget">
       <ul>
+        
+          <li>
+            <a href="/2018/02/01/lambdaauto/">lambdaauto</a>
+          </li>
         
           <li>
             <a href="/2018/02/01/CppSuggestion/">CppSuggestion</a>
