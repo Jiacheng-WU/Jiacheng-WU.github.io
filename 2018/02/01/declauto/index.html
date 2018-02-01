@@ -13,7 +13,7 @@
 <meta property="og:url" content="http://yoursite.com/2018/02/01/declauto/index.html">
 <meta property="og:site_name" content="Hexo">
 <meta property="og:description" content="C++14 Interesting Techniques.Now we’ll have a task to write a universal function to get the object from Container with index.12345template&amp;lt;typename Container, typename Index&amp;gt;auto func(Container&amp;">
-<meta property="og:updated_time" content="2018-02-01T10:14:04.000Z">
+<meta property="og:updated_time" content="2018-02-01T10:52:41.454Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="declauto">
 <meta name="twitter:description" content="C++14 Interesting Techniques.Now we’ll have a task to write a universal function to get the object from Container with index.12345template&amp;lt;typename Container, typename Index&amp;gt;auto func(Container&amp;">
@@ -92,13 +92,14 @@
 <p>A good version of auto and decltype combined in order to utilize the perfect forwarding techniques.<br>The things works well as following:</p>
 <ol>
 <li>It works well for any reference (lvalref, rvalref)</li>
+<li>For Lref we would call copy construction, and Rref we would like to call move construction</li>
 <li>We should notice const T&amp;&amp; cannot use Move sematics due to its constness.</li>
 </ol>
 
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://yoursite.com/2018/02/01/declauto/" data-id="cjd4dls900001yii5n20opyxm" class="article-share-link">Teilen</a>
+      <a data-url="http://yoursite.com/2018/02/01/declauto/" data-id="cjd4dx1qw00011xi52f9qfygc" class="article-share-link">Teilen</a>
       
       
     </footer>
