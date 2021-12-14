@@ -5,20 +5,12 @@
     <link>https://Jiacheng-Wu.github.io/author/jin-wang/</link>
       <atom:link href="https://Jiacheng-Wu.github.io/author/jin-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Jin Wang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 12 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://Jiacheng-Wu.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Jin Wang</title>
       <link>https://Jiacheng-Wu.github.io/author/jin-wang/</link>
     </image>
-    
-    <item>
-      <title>Optimizing Parallel Recursive Datalog Evaluation on Multicore Machines</title>
-      <link>https://Jiacheng-Wu.github.io/publication/sigmod22/</link>
-      <pubDate>Sun, 12 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://Jiacheng-Wu.github.io/publication/sigmod22/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Updatable Learned Index with Precise Positions</title>
