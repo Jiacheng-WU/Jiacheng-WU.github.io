@@ -5,12 +5,20 @@
     <link>https://Jiacheng-Wu.github.io/author/jiacheng-wu/</link>
       <atom:link href="https://Jiacheng-Wu.github.io/author/jiacheng-wu/index.xml" rel="self" type="application/rss+xml" />
     <description>Jiacheng Wu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 12 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 08 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://Jiacheng-Wu.github.io/author/jiacheng-wu/avatar_hu867ec75624ed3b5b4c4f65fb2dfbd3ee_1721803_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Jiacheng Wu</title>
       <link>https://Jiacheng-Wu.github.io/author/jiacheng-wu/</link>
     </image>
+    
+    <item>
+      <title>Templating Shuffles</title>
+      <link>https://Jiacheng-Wu.github.io/publication/cidr23/</link>
+      <pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://Jiacheng-Wu.github.io/publication/cidr23/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Optimizing Parallel Recursive Datalog Evaluation on Multicore Machines</title>
@@ -33,14 +41,6 @@
       <link>https://Jiacheng-Wu.github.io/publication/vldbj21/</link>
       <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
       <guid>https://Jiacheng-Wu.github.io/publication/vldbj21/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Revisiting Data Prefetching for Database Systems with Machine Learning Techniques</title>
-      <link>https://Jiacheng-Wu.github.io/publication/icde21/</link>
-      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://Jiacheng-Wu.github.io/publication/icde21/</guid>
       <description></description>
     </item>
     

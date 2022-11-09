@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Boon Thau Loo | Jiacheng Wu</title>
+    <link>https://Jiacheng-Wu.github.io/author/boon-thau-loo/</link>
+      <atom:link href="https://Jiacheng-Wu.github.io/author/boon-thau-loo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Boon Thau Loo</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 08 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Jiacheng-Wu.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Boon Thau Loo</title>
+      <link>https://Jiacheng-Wu.github.io/author/boon-thau-loo/</link>
+    </image>
+    
+    <item>
+      <title>Templating Shuffles</title>
+      <link>https://Jiacheng-Wu.github.io/publication/cidr23/</link>
+      <pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://Jiacheng-Wu.github.io/publication/cidr23/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
