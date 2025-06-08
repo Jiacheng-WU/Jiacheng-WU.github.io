@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yong Zhang | Jiacheng Wu</title>
-    <link>https://Jiacheng-Wu.github.io/author/yong-zhang/</link>
-      <atom:link href="https://Jiacheng-Wu.github.io/author/yong-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/yong-zhang/</link>
+      <atom:link href="http://localhost:1313/author/yong-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Yong Zhang</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://Jiacheng-Wu.github.io/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Yong Zhang</title>
-      <link>https://Jiacheng-Wu.github.io/author/yong-zhang/</link>
+      <link>http://localhost:1313/author/yong-zhang/</link>
     </image>
     
     <item>
       <title>Updatable Learned Index with Precise Positions</title>
-      <link>https://Jiacheng-Wu.github.io/publication/vldb21/</link>
+      <link>http://localhost:1313/publication/vldb21/</link>
       <pubDate>Mon, 16 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://Jiacheng-Wu.github.io/publication/vldb21/</guid>
+      <guid>http://localhost:1313/publication/vldb21/</guid>
       <description></description>
     </item>
     
