@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dan Suciu | Jiacheng Wu</title>
+    <link>http://localhost:1313/author/dan-suciu/</link>
+      <atom:link href="http://localhost:1313/author/dan-suciu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dan Suciu</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 22 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
+      <title>Dan Suciu</title>
+      <link>http://localhost:1313/author/dan-suciu/</link>
+    </image>
+    
+    <item>
+      <title>HoneyComb: A Parallel Worst-Case Optimal Join on Multicores</title>
+      <link>http://localhost:1313/publication/sigmod25/</link>
+      <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/sigmod25/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
