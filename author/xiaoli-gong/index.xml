@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xiaoli Gong | Jiacheng Wu</title>
-    <link>http://localhost:1313/author/xiaoli-gong/</link>
-      <atom:link href="http://localhost:1313/author/xiaoli-gong/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://Jiacheng-Wu.github.io/author/xiaoli-gong/</link>
+      <atom:link href="https://Jiacheng-Wu.github.io/author/xiaoli-gong/index.xml" rel="self" type="application/rss+xml" />
     <description>Xiaoli Gong</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 24 Mar 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>https://Jiacheng-Wu.github.io/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Xiaoli Gong</title>
-      <link>http://localhost:1313/author/xiaoli-gong/</link>
+      <link>https://Jiacheng-Wu.github.io/author/xiaoli-gong/</link>
     </image>
     
     <item>
       <title>Improving Dynamically-Generated Code Performance on Dynamic Binary Translators</title>
-      <link>http://localhost:1313/publication/vee18/</link>
+      <link>https://Jiacheng-Wu.github.io/publication/vee18/</link>
       <pubDate>Sat, 24 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/vee18/</guid>
+      <guid>https://Jiacheng-Wu.github.io/publication/vee18/</guid>
       <description></description>
     </item>
     

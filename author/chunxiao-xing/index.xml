@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chunxiao Xing | Jiacheng Wu</title>
-    <link>http://localhost:1313/author/chunxiao-xing/</link>
-      <atom:link href="http://localhost:1313/author/chunxiao-xing/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://Jiacheng-Wu.github.io/author/chunxiao-xing/</link>
+      <atom:link href="https://Jiacheng-Wu.github.io/author/chunxiao-xing/index.xml" rel="self" type="application/rss+xml" />
     <description>Chunxiao Xing</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>https://Jiacheng-Wu.github.io/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Chunxiao Xing</title>
-      <link>http://localhost:1313/author/chunxiao-xing/</link>
+      <link>https://Jiacheng-Wu.github.io/author/chunxiao-xing/</link>
     </image>
     
     <item>
       <title>Updatable Learned Index with Precise Positions</title>
-      <link>http://localhost:1313/publication/vldb21/</link>
+      <link>https://Jiacheng-Wu.github.io/publication/vldb21/</link>
       <pubDate>Mon, 16 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/vldb21/</guid>
+      <guid>https://Jiacheng-Wu.github.io/publication/vldb21/</guid>
       <description></description>
     </item>
     

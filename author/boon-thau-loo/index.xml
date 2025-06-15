@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Boon Thau Loo | Jiacheng Wu</title>
-    <link>http://localhost:1313/author/boon-thau-loo/</link>
-      <atom:link href="http://localhost:1313/author/boon-thau-loo/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://Jiacheng-Wu.github.io/author/boon-thau-loo/</link>
+      <atom:link href="https://Jiacheng-Wu.github.io/author/boon-thau-loo/index.xml" rel="self" type="application/rss+xml" />
     <description>Boon Thau Loo</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 08 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>https://Jiacheng-Wu.github.io/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Boon Thau Loo</title>
-      <link>http://localhost:1313/author/boon-thau-loo/</link>
+      <link>https://Jiacheng-Wu.github.io/author/boon-thau-loo/</link>
     </image>
     
     <item>
       <title>Templating Shuffles</title>
-      <link>http://localhost:1313/publication/cidr23/</link>
+      <link>https://Jiacheng-Wu.github.io/publication/cidr23/</link>
       <pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/cidr23/</guid>
+      <guid>https://Jiacheng-Wu.github.io/publication/cidr23/</guid>
       <description></description>
     </item>
     

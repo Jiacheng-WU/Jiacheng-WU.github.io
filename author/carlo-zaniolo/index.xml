@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Carlo Zaniolo | Jiacheng Wu</title>
-    <link>http://localhost:1313/author/carlo-zaniolo/</link>
-      <atom:link href="http://localhost:1313/author/carlo-zaniolo/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://Jiacheng-Wu.github.io/author/carlo-zaniolo/</link>
+      <atom:link href="https://Jiacheng-Wu.github.io/author/carlo-zaniolo/index.xml" rel="self" type="application/rss+xml" />
     <description>Carlo Zaniolo</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 12 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>https://Jiacheng-Wu.github.io/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Carlo Zaniolo</title>
-      <link>http://localhost:1313/author/carlo-zaniolo/</link>
+      <link>https://Jiacheng-Wu.github.io/author/carlo-zaniolo/</link>
     </image>
     
     <item>
       <title>Optimizing Parallel Recursive Datalog Evaluation on Multicore Machines</title>
-      <link>http://localhost:1313/publication/sigmod22/</link>
+      <link>https://Jiacheng-Wu.github.io/publication/sigmod22/</link>
       <pubDate>Sun, 12 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/sigmod22/</guid>
+      <guid>https://Jiacheng-Wu.github.io/publication/sigmod22/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Formal Semantics and High Performance in Declarative Machine Learning using Datalog</title>
-      <link>http://localhost:1313/publication/vldbj21/</link>
+      <link>https://Jiacheng-Wu.github.io/publication/vldbj21/</link>
       <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/vldbj21/</guid>
+      <guid>https://Jiacheng-Wu.github.io/publication/vldbj21/</guid>
       <description></description>
     </item>
     
