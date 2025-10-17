@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jiacheng Wu</title>
-    <link>https://Jiacheng-Wu.github.io/</link>
-      <atom:link href="https://Jiacheng-Wu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/</link>
+      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <description>Jiacheng Wu</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 22 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://Jiacheng-Wu.github.io/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Jiacheng Wu</title>
-      <link>https://Jiacheng-Wu.github.io/</link>
+      <link>http://localhost:1313/</link>
     </image>
     
     <item>
       <title>HoneyComb: A Parallel Worst-Case Optimal Join on Multicores</title>
-      <link>https://Jiacheng-Wu.github.io/publication/sigmod25/</link>
+      <link>http://localhost:1313/publication/sigmod25/</link>
       <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://Jiacheng-Wu.github.io/publication/sigmod25/</guid>
+      <guid>http://localhost:1313/publication/sigmod25/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Templating Shuffles</title>
-      <link>https://Jiacheng-Wu.github.io/publication/cidr23/</link>
+      <link>http://localhost:1313/publication/cidr23/</link>
       <pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://Jiacheng-Wu.github.io/publication/cidr23/</guid>
+      <guid>http://localhost:1313/publication/cidr23/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optimizing Parallel Recursive Datalog Evaluation on Multicore Machines</title>
-      <link>https://Jiacheng-Wu.github.io/publication/sigmod22/</link>
+      <link>http://localhost:1313/publication/sigmod22/</link>
       <pubDate>Sun, 12 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://Jiacheng-Wu.github.io/publication/sigmod22/</guid>
+      <guid>http://localhost:1313/publication/sigmod22/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Updatable Learned Index with Precise Positions</title>
-      <link>https://Jiacheng-Wu.github.io/publication/vldb21/</link>
+      <link>http://localhost:1313/publication/vldb21/</link>
       <pubDate>Mon, 16 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://Jiacheng-Wu.github.io/publication/vldb21/</guid>
+      <guid>http://localhost:1313/publication/vldb21/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Formal Semantics and High Performance in Declarative Machine Learning using Datalog</title>
-      <link>https://Jiacheng-Wu.github.io/publication/vldbj21/</link>
+      <link>http://localhost:1313/publication/vldbj21/</link>
       <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://Jiacheng-Wu.github.io/publication/vldbj21/</guid>
+      <guid>http://localhost:1313/publication/vldbj21/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improving Dynamically-Generated Code Performance on Dynamic Binary Translators</title>
-      <link>https://Jiacheng-Wu.github.io/publication/vee18/</link>
+      <link>http://localhost:1313/publication/vee18/</link>
       <pubDate>Sat, 24 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://Jiacheng-Wu.github.io/publication/vee18/</guid>
+      <guid>http://localhost:1313/publication/vee18/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://Jiacheng-Wu.github.io/admin/</link>
+      <link>http://localhost:1313/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://Jiacheng-Wu.github.io/admin/</guid>
+      <guid>http://localhost:1313/admin/</guid>
       <description></description>
     </item>
     
